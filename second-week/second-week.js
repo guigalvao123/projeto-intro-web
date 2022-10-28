@@ -12,13 +12,13 @@ favorito1 = {
     estilo: ["Psicologico","RTS","Offline"]}
 
 favorito2 ={ 
-    nome: "Hunt: Showdown",
+    nome: "Hunt",
     tempo: 213,
     massiveMultiplayer: false,
     estilo: ["Terror","FPS","Online"]}
 
 favorito3 ={
-    nome: "World of Warcraft",
+    nome: "WoW",
     tempo: 500,
     massiveMultiplayer: true,
     estilo: ["Aventura","RPG","Online"]}
