@@ -14,11 +14,11 @@ const nome1 = "Frostpunk"
 const tempo1 = 135
 const massiveMultiplayer1 = false
 
-const nome2 = "Hunt: Showdown"
+const nome2 = "Hunt"
 const tempo2 = 213
 const massiveMultiplayer2 = false
 
-const nome3 = "World of Warcraft"
+const nome3 = "WoW"
 const tempo3 = 500
 const massiveMultiplayer3 = true
 

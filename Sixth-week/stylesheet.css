@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    list-style: none;
 }
 
 .body{
@@ -28,42 +29,42 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    height: 85vh;
+    height: 84vh;
 }
 
 img{
     float: left;
 }
 
-.frostpunk{
+.Frostpunk{
     margin: 5px;
     padding: 5px;
     border: 2px solid black;
     background-color: rgb(50, 82, 245);
     width: 35vw;
-    height: 10vh;
+    height: 12vh;
     text-align: center;
     align-items: center;
 }
 
-.hunt{
+.Hunt{
     margin: 5px;
     padding: 5px;
     border: 2px solid black;
     background-color: rgb(227, 34, 34);
     width: 35vw;
-    height: 10vh;
+    height: 12vh;
     text-align: center;
     align-items: center;
 }
 
-.wow{
+.WoW{
     margin: 5px;
     padding: 5px;
     border: 2px solid black;
     background-color: rgb(238, 123, 42);
     width: 35vw;
-    height: 10vh;
+    height: 12vh;
     text-align: center;
     align-items: center;
 }
@@ -73,47 +74,47 @@ img{
     background-color: black;
     display: flex;
     flex-direction: column;
-    height: 8vh;
+    height: 10vh;
     align-items: center;
 }
 
 .input{
-    padding-left: 15px;
+    padding-left: 20px;
     background: url(https://toppng.com/uploads/preview/magnifying-glass-free-icon-magnifying-glass-icon-11562945594bjpcnqjfko.png) no-repeat left;
     background-size: 15px;
 }
 
-@media screen and (max-device-width: 1130px){
+@media screen and (max-device-width: 1300px){
     
-    .frostpunk{
+    .Frostpunk{
         margin: 5px;
         padding: 5px;
         border: 2px solid black;
         background-color: rgb(50, 82, 245);
         width: 90vw;
-        height: 12vh;
+        height: 15vh;
         text-align: center;
         align-items: center;
     }
     
-    .hunt{
+    .Hunt{
         margin: 5px;
         padding: 5px;
         border: 2px solid black;
         background-color: rgb(227, 34, 34);
         width: 90vw;
-        height: 12vh;
+        height: 15vh;
         text-align: center;
         align-items: center;
     }
     
-    .wow{
+    .WoW{
         margin: 5px;
         padding: 5px;
         border: 2px solid black;
         background-color: rgb(238, 123, 42);
         width: 90vw;
-        height: 12vh;
+        height: 15vh;
         text-align: center;
         align-items: center;
     }
